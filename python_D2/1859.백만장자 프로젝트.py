@@ -7,3 +7,4 @@ for tc in range(TC):
   N = int(input())
   Day = list(map(int, input().split()))
   print(N, Day)
+

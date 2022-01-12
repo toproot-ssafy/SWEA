@@ -20,3 +20,4 @@ for i in numList:
     for k in range(cnt):
       print('-', end='')
   print(' ', end='')
+

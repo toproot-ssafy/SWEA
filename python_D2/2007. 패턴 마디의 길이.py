@@ -11,3 +11,5 @@ for tc in range(1, TC+1):
     if word == Pattern[i : i+len(word)]:
 
 
+
+

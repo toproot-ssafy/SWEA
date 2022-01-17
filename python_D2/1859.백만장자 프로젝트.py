@@ -21,3 +21,4 @@ for tc in range(TC):
   Result += calPrice(Day)
 
   print('#{}'.format(tc+1),Result)
+

@@ -9,3 +9,4 @@ for tc in range(1, TC+1):
     numList = list(map(int, range(i)))
     for j in range(i):
       print()
+

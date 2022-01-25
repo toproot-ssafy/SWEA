@@ -19,3 +19,4 @@ for tc in range(1, TC+1):
       if (j - 2) > 0:
         Same = Result[j-1][j-1]
         Before = Result[j-1][j-2]
+
